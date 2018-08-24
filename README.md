@@ -1,5 +1,5 @@
 # {Application Name}
-- Portfolio
+- `Portfolio`
 #### {Brief description of application}, {Date of current version}
 -A brief description of Leon's Life and hobbies and skills updated 24TH August 2018
 ## Description
